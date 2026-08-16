@@ -55,3 +55,7 @@ Retired / no longer earnable: Arctic Code Vault, Mars 2020.
 ```bash
 git commit -m "Add co-authored commit" -m "Co-authored-by: FriendName <friend@example.com>"
 git push
+
+## Scope and safety
+
+Use this project only with systems, accounts, data, and networks you own or are explicitly authorized to assess. Do not use it to bypass access controls, collect private data, disrupt services, process payment-card data, or impersonate people.
