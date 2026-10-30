@@ -38,6 +38,8 @@ The practical achievement paths change over time. See the detailed, source-linke
 
 ## 📖 Detailed Guides
 
+For responsible, useful activity, read [`docs/ethical-contribution-workflow.md`](docs/ethical-contribution-workflow.md).
+
 ### Quickstart + Pull Shark + YOLO (in one shot)
 1. Create any public repository (like this one).  
 2. Click **Add file → Create new file**.  
