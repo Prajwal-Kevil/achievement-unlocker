@@ -20,21 +20,19 @@ Use this repository itself to earn **Quickstart**, **Pull Shark**, **YOLO**, and
 
 ---
 
-## 🥇 All Unlockable Achievements (2025)
+## 🥇 Current achievement paths
 
-| Badge | How to get it |
-|-------|---------------|
-| **Quickstart** | Create a repo, branch, PR, and merge it |
-| **Pull Shark** | Merge a pull request (any repo, even your own) |
-| **YOLO** | Merge a PR without a review |
-| **Galaxy Brain** | Answer a discussion (your answer gets accepted or upvoted) |
-| **Pair Extraordinaire** | Create a commit with a co‑author: `Co-authored-by: name <email>` |
-| **Public Sponsor** | Sponsor any open‑source contributor (minimum $1/month) |
-| **Heart On Your Sleeve** | React with a ❤️ on a **release** of a public repo |
-| **Open Sourcerer** | Merge PRs in **at least 3 different public repositories** |
-| **Starstruck** | Own a repository that gets 16+ stars ⭐ (hint: share this guide!) |
+The practical achievement paths change over time. See the detailed, source-linked list in [`docs/current-achievements.md`](docs/current-achievements.md).
 
-Retired / no longer earnable: Arctic Code Vault, Mars 2020.
+| Badge | Legitimate path |
+|-------|-----------------|
+| **Quickdraw** | Close an issue or pull request within five minutes of opening it |
+| **Pull Shark** | Merge pull requests; higher tiers require more merged pull requests |
+| **YOLO** | Merge your own pull request without a code review |
+| **Pair Extraordinaire** | Land a genuine co-authored commit in a merged pull request |
+| **Galaxy Brain** | Provide accepted answers in GitHub Discussions |
+| **Starstruck** | Earn meaningful community interest and stars on a repository |
+| **Public Sponsor** | Sponsor open-source work through GitHub Sponsors |
 
 ---
 
