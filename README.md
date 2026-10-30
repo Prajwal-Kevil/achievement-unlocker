@@ -1,5 +1,8 @@
 # 🏆 GitHub Achievement Unlocker
 
+> **Roventis Technologies** — maintained by [Prajwal C](https://github.com/Prajwal-Kevil). See [`ROVENTIS_STANDARDS.md`](ROVENTIS_STANDARDS.md) for repository, safety, and contribution standards.
+
+
 A hands‑on tutorial to unlock **every currently obtainable GitHub achievement** badge.  
 Use this repository itself to earn **Quickstart**, **Pull Shark**, **YOLO**, and more.
 
